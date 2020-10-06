@@ -3,7 +3,7 @@ var fs = require('fs');
 // json file with the data 
 const express = require("express"); 
 const app = express(); 
-var port = 8282;
+var port = 80;
 // To solve the cors issue 
 const cors=require('cors'); 
 	
