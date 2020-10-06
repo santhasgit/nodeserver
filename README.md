@@ -12,7 +12,7 @@ A.Installation:
 
 Run Application:
 
-node index.js
+npm start
 
 GET Routes:
 
